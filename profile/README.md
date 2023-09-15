@@ -2,4 +2,4 @@
 
 ## About AMU JUUL
 
-AMU JUUL are experts in training and further education in the field of commercial transport. We provide diplomas and certificates for drivers and hauliers in truck, bus, taxi and van etc. AMU JUUL has branches in Roskilde, Køge and Holbæk - in Denmark.
+AMU JUUL are experts in training and further education in the field of commercial transport. We provide diplomas and certificates for drivers and hauliers in truck, bus, taxi and van etc. AMU JUUL has departments in Roskilde, Køge, Holbæk and Hvidovre - in Denmark.
