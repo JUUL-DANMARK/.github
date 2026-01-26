@@ -1,4 +1,4 @@
-<p align="center"><a href="https://www.amujuul.dk" target="_blank"><img src="https://raw.githubusercontent.com/JUUL-Danmark/.github/cde4b3202b5969a1616d7fc82db9cae5bd928e0e/profile/logo.svg" width="400"></a></p>
+<p align="center"><a href="https://juuldanmark.dk" target="_blank"><img src="https://raw.githubusercontent.com/JUUL-Danmark/.github/cde4b3202b5969a1616d7fc82db9cae5bd928e0e/profile/logo.svg" width="400"></a></p>
 
 ## About JUUL
 
